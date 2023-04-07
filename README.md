@@ -9,6 +9,7 @@ const Sebastian = {
  ```
  You can find me:
 - Correo: sebastianhoyos145@gmail.com
+- [Linkedin](https://www.linkedin.com/in/sebastianhoyosl)
 - [whatsapp](https://wa.me/573197904995) : 3197904995
 - [Github](https://github.com/SebastianHoyosLopez)
 

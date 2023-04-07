@@ -5,7 +5,7 @@ const Sebastian = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, ReduxSaga, Styled-Components, Nestjs],
-<!--
+}
  ```
  You can find me:
 - Correo: sebastianhoyos145@gmail.com

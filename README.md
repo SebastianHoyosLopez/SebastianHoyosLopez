@@ -4,7 +4,7 @@
 const Sebastian = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, ReduxSaga, Styled-Components, Nestjs],
+  tools: [Angular, React, Redux, ReduxSaga, Styled-Components, Nestjs],
 }
  ```
  You can find me:
